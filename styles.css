@@ -1,0 +1,13 @@
+.topbar {
+    width: 100%;
+    height: 60px;
+    background-color: #2C3E50; /* Azul escuro */
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
