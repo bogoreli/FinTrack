@@ -1,6 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
 .topbar {
     width: 100%;
-    height: 90px;
+    height: 60px;
     background-color: #2C3E50;
     color: white;
     display: flex;
@@ -13,9 +20,20 @@
 }
 
 .logo {
-    margin-top: 35px;
+    margin-top: 23px;
 }
 
 .conta {
     margin-left: 98rem;
+}
+
+.account-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.account-btn img {
+    height: 50px;
+    border-radius: 50%;
 }
