@@ -43,3 +43,14 @@
     height: 50px;
     border-radius: 50%;
 }
+
+.balance {
+    margin-top: 100px;
+    margin-left: 50px;
+    border-style: dashed;
+    border-color: #2C3E50;
+    width: 45%;
+    height: 25rem;
+    display: flex;
+    border-radius: 2%;
+}
