@@ -46,11 +46,11 @@
 
 .account-info {
     margin-top: 100px;
-    margin-left: 50px;
-    border-style: dashed;
+    margin-left: 325px;
+    border-style: solid;
     border-color: #2C3E50;
-    width: 45%;
-    height: 25rem;
+    width: 65%;
+    height: 150px;
     display: flex;
-    border-radius: 2%;
+    border-radius: 10px;
 }
