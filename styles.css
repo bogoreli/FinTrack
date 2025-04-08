@@ -22,6 +22,7 @@
 .topbar-left img {
     margin-top: 20px;
     height: 100px;
+    width: 100px;
 }
 
 .topbar-center {
@@ -68,8 +69,8 @@
 
 .account-info {
     margin-top: 100px;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 22%;
+    margin-right: 22%;
     border-style: solid;
     border-color: #2C3E50;
     width: 60%;
