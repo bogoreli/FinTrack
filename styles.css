@@ -47,9 +47,6 @@
     cursor: pointer;
 }
 
-.logo {
-    margin-top: 23px;
-}
 
 .account-btn, .expenses-btn, .entries-btn, .invoice-btn, .graphics-btn, .inicio-btn {
     background: none;
