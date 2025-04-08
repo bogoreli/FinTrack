@@ -33,7 +33,7 @@
 .topbar-center p {
     color: white;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     transition: color 0.3s;
 }
 
@@ -71,7 +71,7 @@
     border-style: solid;
     border-color: #2C3E50;
     width: 60%;
-    height: 150px;
+    height: 20%;
     display: flex;
     border-radius: 10px;
     justify-content: space-between;
