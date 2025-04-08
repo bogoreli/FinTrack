@@ -24,10 +24,6 @@
     margin-top: 23px;
 }
 
-.conta {
-    margin-left: 98rem;
-}
-
 .account-btn, .expenses-btn, .entries-btn, .invoice-btn, .graphics-btn, .inicio-btn {
     background: none;
     border: none;
@@ -58,7 +54,7 @@
     align-items: center;
     background-color: #F4F6F8;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    padding: 5px;
+    padding: 20px;
 }
 
 .entrance-btn {
