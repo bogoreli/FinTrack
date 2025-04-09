@@ -89,7 +89,21 @@
     border-radius: 10px;
     justify-content: space-between;
     align-items: center;
-    display: inline-block;
+    display: flex;
+    background-color: #F4F6F8;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.last-transactions {
+    margin-top: 32px;
+    margin-left: 22%;
+    width: 30%;
+    border: 3px solid #2C3E50;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
     background-color: #F4F6F8;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 20px;
