@@ -92,7 +92,8 @@
 .last-transactions, .graphic-info {
     margin-top: 32px;
     width: 30.5%;
-    border: 3px solid #2C3E50;
+    border-style: solid;
+    border-color: #2C3E50;
     border-radius: 10px;
     justify-content: space-between;
     align-items: center;
