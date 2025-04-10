@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 FinTrack é um app para ajudar no acompanhamento e controle financeiro!
 
-- [Acesse o projeto em tempo real](https://bogoreli.github.io/NLW-Setup/)
+- [Acesse o projeto em tempo real](https://fin-track-one-alpha.vercel.app/)
