@@ -24,3 +24,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 FinTrack é um app para ajudar no acompanhamento e controle financeiro!
 
 - [Acesse o projeto em tempo real](https://fin-track-one-alpha.vercel.app/)
+
+Projeto criado por: [kevinbogoreli](https://github.com/bogoreli) e [HigorFrade](https://github.com/higorfrade)
