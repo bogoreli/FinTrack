@@ -1,5 +1,26 @@
-# FinTrack: Finanças Pessoais
+<h1 align="center"> FinTrack: Finanças pessoais </h1>
 
-## Objetivo: Aplicação web para gerenciamento de finanças pessoais, permitindo o controle de receitas, despesas e saldo em tempo real.O objetivo é ajudar os usuários a organizarem suas finanças de forma simples e eficiente.
+<p align="center">
+FinTrack é uma aplicação web para gerenciamento de finanças pessoais, permitindo o controle de receitas, despesas e saldo em tempo real.O objetivo é ajudar os usuários a organizarem suas finanças de forma simples e eficiente. <br/>
+</p>
 
-Projeto criado por: [kevinbogoreli](https://github.com/bogoreli)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Projeto
+
+FinTrack é um app para ajudar no acompanhamento e controle financeiro!
+
+- [Acesse o projeto em tempo real](https://bogoreli.github.io/NLW-Setup/)
