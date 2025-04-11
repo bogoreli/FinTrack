@@ -42,8 +42,8 @@
                 <img src="./src/LogoPerfil.png" width="40" height="40">
             </a>
         </div>
-
     </nav>
+
     <main>
         <div class="account-info">
             <div class="user-details">
@@ -61,7 +61,18 @@
             <div class="graphic-info"></div>
             <div class="last-transactions"></div>
         </div>
+
+        <div id="modal-expense" class="modal">
+            <div class="modal-content">
+                <span class="exit">&times;</span>
+                <h2>Nova Despesa</h2>
+                <input type="text" placeholder="Descrição da despesa">
+                <input type="number" placeholder="Valor (R$)">
+                <button>Salvar</button>
+            </div>
+        </div>
     </main>
+
     <footer>
         <div id="footer_content">
             <h2>FOOTER</h2>
@@ -79,6 +90,8 @@
             </div>
         </div>
     </footer>
+
+    <script src="./index.js"></script>
 </body>
 
 </html>
