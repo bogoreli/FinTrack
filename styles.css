@@ -108,7 +108,7 @@ main {
     min-height: 300px;
 }
 
-.entrance-btn {
+#entrance-btn {
     padding: 10px 20px;
     font-size: 16px;
     font-weight: bold;
@@ -120,7 +120,7 @@ main {
     color: #fff;
 }
 
-.expense-btn {
+#expense-btn {
     padding: 10px 20px;
     font-size: 16px;
     font-weight: bold;
