@@ -5,10 +5,14 @@
     font-family: Arial, sans-serif;
 }
 
+main {
+    height: 70vh;
+}
+
 .topbar {
     width: 100%;
     height: 60px;
-    background-color: #2C3E50;
+    background-color: #13191f;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -30,8 +34,8 @@
     gap: 30px;
 }
 
-.topbar-center p {
-    color: white;
+.topbar-center a {
+    color: #fff;
     text-decoration: none;
     font-size: 20px;
     transition: color 0.3s;
@@ -113,7 +117,7 @@
     cursor: pointer;
     transition: background-color 0.3s ease;
     background-color: #2ECC71;
-    color: white;
+    color: #fff;
 }
 
 .expense-btn {
@@ -125,10 +129,61 @@
     cursor: pointer;
     transition: background-color 0.3s ease;
     background-color: #E74C3C;
-    color: white;
+    color: #fff;
 }
 
 .fast-access {
     display: flex;
     gap: 10px
+}
+
+footer {
+    margin-top: 10px;
+}
+
+#footer_content {
+    width: 100%;
+    background-color: #13191f;
+    color: #fff;
+    padding: 2rem 3rem;
+}
+
+#footer_content h2{
+    margin-bottom: 10px;
+}
+
+#footer_social_media {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+
+#footer_social_media a {
+    text-decoration: none;
+}
+
+#footer_social_media .footer-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    width: 2.5rem;
+    color: #fff;
+    border-radius: 50%;
+}
+
+#footer_social_media .footer-link:hover {
+    opacity: 0.8;
+}
+
+#instagram {
+    background: linear-gradient(#7f37c9, #ff2992, #ff9807);
+}
+
+#github {
+    background: #000;
+}
+
+#linkedin {
+    background: #0077b5;
 }
