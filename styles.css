@@ -170,13 +170,16 @@ main {
 
 footer {
     margin-top: 10px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
 }
 
 #footer_content {
     width: 100%;
     background-color: #13191f;
     color: #fff;
-    padding: 2rem 3rem;
+    padding: 20px 30px;
 }
 
 #footer_content h2{
@@ -185,8 +188,8 @@ footer {
 
 #footer_social_media {
     display: flex;
-    gap: 2rem;
-    margin-top: 1.5rem;
+    gap: 1rem;
+    margin-top: 1%;
 }
 
 #footer_social_media a {
@@ -195,10 +198,10 @@ footer {
 
 #footer_social_media .footer-link {
     display: flex;
-    align-items: center;
+    align-items: center;  
     justify-content: center;
-    height: 2.5rem;
-    width: 2.5rem;
+    height: 1.5rem;
+    width: 1.5rem;
     color: #fff;
     border-radius: 50%;
 }
