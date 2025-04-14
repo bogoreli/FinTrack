@@ -189,7 +189,6 @@ body {
     justify-content: center;
     gap: 20px;
     margin-left: 3.80%;
-
 }
 
 .last-transactions, .graphic-info {
@@ -247,11 +246,33 @@ body {
     margin: 10% auto;
     padding: 20px;
     width: 20%;
-    height: 20%;
+    height: 33%;
     border-radius: 10px;
     box-shadow: 0 0 10px #000;
     position: relative;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-content input {
+    border-radius: 10px;
+    font-size: large;
+    padding: 5px;
+    margin-top: 3%;
+    border: 1px solid rgb(138, 135, 135);
+    font-weight: bold;
+}
+
+.modal-content button {
+    border-radius: 8px;
+    size: 30px;
+    margin-top: 3%;
+    background-color: #3498db; /* Azul vibrante */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
 }
 
 .btnExitModal {
