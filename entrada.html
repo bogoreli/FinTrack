@@ -1,50 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/df5f86cab8.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="styles.css">
     <title>FinTrack: Entradas</title>
 </head>
 <body>
-    <nav class="topbar">
-        <div class="topbar-left">
-            <img src="./src/Logo FinTrack.png" width="40" height="40">
-        </div>
+    <header>
+        <nav class="topbar">
+            <div class="topbar-left">
+                <a href="./index.html"><i class="fa-brands fa-btc"></i></i><span>FinTrack</span></a>
+            </div>
 
-        <div class="topbar-center">
-            <a href="./index.html" target="_blank">
-                ÍNICIO
-            </a>
+            <ul class="topbar-center">
+                <li><a href="./index.html">ÍNICIO</a></li>
+                <li><a href="./despesa.html">DESPESAS</a></li>
+                <li><a href="./entrada.html" class="active">ENTRADAS</a></li>
+                <li><a href="./grafico.html">GRÁFICOS</a></li>
+                <li><a href="./fatura.html">FATURAS</a></li>
+            </ul>
 
-            <a href="./despesa.html" target="_blank">
-                DESPESAS
-            </a>
-
-            <a href="./entrada.html" target="_blank">
-                ENTRADAS
-            </a>
-
-            <a href="./grafico.html" target="_blank">
-                GRÁFICOS
-            </a>
-
-            <a href="./fatura.html" target="_blank">
-                FATURAS
-            </a>
-        </div>
-
-        <div class="topbar-right">
-            <a href="./account.html">
-                <img src="./src/LogoPerfil.png" width="40" height="40">
-            </a>
-        </div>
-    </nav>
+            <div class="topbar-right">
+                <a href="./account.html" class="user"><i class="fa-solid fa-circle-user"></i>Entrar</a>
+                <a href="#">Registrar</a>
+                <div class="fa-solid fa-bars" id="menu-icon"></div>
+            </div>
+        </nav>
+    </header>
 
     <footer>
         <div id="footer_content">
-            <h2>FOOTER</h2>
-            <p>Inserir conteúdo aqui!</p>
+
             <div id="footer_social_media">
                 <a href="#" class="footer-link" id="github">
                     <i class="fa-brands fa-github"></i>
@@ -58,5 +46,6 @@
             </div>
         </div>
     </footer>
+    <script src="./scripts.js"></script>
 </body>
 </html>
